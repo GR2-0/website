@@ -54,7 +54,7 @@ const mobileQuery = matchMedia(
 );
 
 const imageURL = new URL(
-    '../images/hero-bg.png',
+    '/assets/images/hero-bg.png',
     import.meta.url
 ).href;
 
